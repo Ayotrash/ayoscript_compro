@@ -42,7 +42,7 @@ project after some code changes, use:
 ##### Development Mode
 
 ```shell
-npm start dev 
+npm run dev     
 ```
 
 or
@@ -66,22 +66,6 @@ git push # push_to_github
 
 This adds the README.md file to your git repository, creates a commit for it and pushes it to GitHub (or other preferred remote repository).
 
-## Contributing
-
-When you publish something open source, one of the greatest motivations is that
-anyone can just jump in and start contributing to your project.
-
-These paragraphs are meant to welcome those kind souls to feel that they are
-needed. You should state something like:
-
-"If you'd like to contribute, please fork the repository and use a feature
-branch. Pull requests are warmly welcome."
-
-If there's anything else the developer needs to know (e.g. the code style
-guide), you should link it here. If there's a lot of things to take into
-consideration, it is common to separate this section to its own file called
-`CONTRIBUTING.md` (or similar). If so, you should say that it exists here.
-
 ## Links
 
 Even though this information can be found inside the project on machine-readable
@@ -95,7 +79,7 @@ links to humans using your project. You can include links like:
     info@ayotrust.com directly instead of using issue tracker. We value your effort
     to improve the security and privacy of this project!
 - Related projects:
-  - Your other project: https://github.com/Ayotrash
+  - Other project: https://github.com/Ayotrash
   - Fuadit Muhammad project: https://github.com/fuaditrockz
   - Arsyad Ramadhan project: https://github.com/arsyadsr09
 

@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "nodemon ./bin/www",
-    "dev": "DEBUG=ayoscript-compro:* npm start"
+    "dev": "DEBUG=ayoscript_compro:* & npm start"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
